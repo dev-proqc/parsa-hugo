@@ -1,5 +1,5 @@
 +++
-categories = ["humour drôle", "humour"]
+categories = ["Humour de couille"]
 date = 2021-07-30T04:00:00Z
 description = "Un homme à la plage"
 image = "/images/fb_img_1627412786832.jpg"
@@ -8,4 +8,3 @@ title = "L'image veux tout dire"
 type = "post"
 
 +++
-![](/images/fb_img_1627412786832.jpg)
