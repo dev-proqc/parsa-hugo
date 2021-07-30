@@ -1,6 +1,6 @@
 baseurl = "https://focused-goldwasser-788093.netlify.app"
 googleAnalytics = ""
-languageCode = "fr-fr"
+languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
@@ -12,11 +12,12 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Humour et Délire"
+author = "John Doe"
 author_image = "images/banner-img.png"
-bio = "Site web d'humour et de délire"
+bio = "Humour et Délire, La référence web pour plus de fun"
+contact_form_action = "#"
 copyright = "Copyright &copy; 2020 Humour et Délire"
-description = "This is meta description"
+description = "Humour et délire. Vien rire avec nous"
 email = "exmaple@ymail.com"
 home = "Home"
 layout = "1"
