@@ -21,7 +21,7 @@ description = "Humour et délire. Vien rire avec nous"
 email = "exmaple@ymail.com"
 home = "Home"
 layout = "1"
-logo = "images/logo2.png"
+logo = "images/logo.png"
 preloader = true
 search = true
 [params.cookies]
