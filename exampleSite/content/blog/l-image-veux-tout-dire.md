@@ -9,3 +9,4 @@ title = "L'image veux tout dire"
 type = "image"
 
 +++
+![](/images/fb_img_1627412786832.jpg)
