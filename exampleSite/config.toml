@@ -4,7 +4,7 @@ languageCode = "fr-fr"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Humour et Délire | La référence web pour plus de fun"
 [[menu.main]]
 name = "Accueil"
 url = "/"
