@@ -1,6 +1,6 @@
 baseurl = "https://focused-goldwasser-788093.netlify.app"
 googleAnalytics = ""
-languageCode = "fr-ca"
+languageCode = "fr-fr"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
