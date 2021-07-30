@@ -5,6 +5,6 @@ description = "Un homme à la plage"
 image = "/images/fb_img_1627412786832.jpg"
 tags = ["Humour et Délire", "humour noir", "hahaha", "Québec", "France", "Drôles", "humour"]
 title = "L'image veux tout dire"
-type = "post"
+type = "featured"
 
 +++
